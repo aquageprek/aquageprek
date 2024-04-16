@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align="center">Muhammad Azka Attariq Hendriatmoko</h1>
+<h4 align="center">Student, Cook, Software engineer? (。_。)</h4>
+
+- Portfolio [https://yangaqua.my.id]([https://yangaqua.my.id)
+- Email **jstazka@icloud.com**
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquageprek&show_icons=true&locale=en" alt="aquageprek" /></p>
+
 <!--
 **aquageprek/aquageprek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
