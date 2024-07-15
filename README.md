@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.js and django**
 
-- 👨‍💻 All of my projects are available at [jstazka.my.id](jstazka.my.id)
+- 👨‍💻 All of my projects are available at [itzazka.live](itzazka.live)
 
 - 📫 How to reach me **jstazka@icloud.com**
 
